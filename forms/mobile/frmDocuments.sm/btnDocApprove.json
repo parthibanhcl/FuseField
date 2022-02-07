@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6bf937560f94829869f11c4a5b9fbb3",
+    "_text_": "Approved",
+    "_width_": {
+        "type": "string",
+        "value": "33.30%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6bf937560f94829869f11c4a5b9fbb3",
+    "id": "btnDocApprove",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f1bedba6a0a64044aab928e349c30534",
+    "name": "kony.ui.Button",
+    "parent": "flxButtons",
+    "pf": "frmDocuments",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

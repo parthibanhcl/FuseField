@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd878b82975a4d5991f385e7ed17326d",
+    "_text_": "Retired",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sd878b82975a4d5991f385e7ed17326d",
+    "id": "btnDocRetired",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c4cef5b3022543db9b9cf98f6f95ef51",
+    "name": "kony.ui.Button",
+    "parent": "flxButtons",
+    "pf": "frmNotifications",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

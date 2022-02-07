@@ -1,0 +1,258 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Zortress  |  Asset Classification"
+            },
+            "lblDocumentDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Date of first use:10-4-2020  |  Expiry Date:13-12-2021 "
+            },
+            "lblDocumentID": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MLR ID:23244  |  Additional ID: 87438"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Practice Document WPD-NPC-001.pdf"
+            },
+            "lblStripHorizontal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Zortress  |  Asset Classification"
+            },
+            "lblDocumentDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Date of first use:10-4-2020  |  Expiry Date:13-12-2021 "
+            },
+            "lblDocumentID": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MLR ID:23244  |  Additional ID: 87438"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Practice Document WPD-NPC-001.pdf"
+            },
+            "lblStripHorizontal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Zortress  |  Asset Classification"
+            },
+            "lblDocumentDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Date of first use:10-4-2020  |  Expiry Date:13-12-2021 "
+            },
+            "lblDocumentID": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MLR ID:23244  |  Additional ID: 87438"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Practice Document WPD-NPC-001.pdf"
+            },
+            "lblStripHorizontal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Zortress  |  Asset Classification"
+            },
+            "lblDocumentDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Date of first use:10-4-2020  |  Expiry Date:13-12-2021 "
+            },
+            "lblDocumentID": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MLR ID:23244  |  Additional ID: 87438"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Practice Document WPD-NPC-001.pdf"
+            },
+            "lblStripHorizontal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Zortress  |  Asset Classification"
+            },
+            "lblDocumentDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Date of first use:10-4-2020  |  Expiry Date:13-12-2021 "
+            },
+            "lblDocumentID": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MLR ID:23244  |  Additional ID: 87438"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Practice Document WPD-NPC-001.pdf"
+            },
+            "lblStripHorizontal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Zortress  |  Asset Classification"
+            },
+            "lblDocumentDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Date of first use:10-4-2020  |  Expiry Date:13-12-2021 "
+            },
+            "lblDocumentID": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MLR ID:23244  |  Additional ID: 87438"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Practice Document WPD-NPC-001.pdf"
+            },
+            "lblStripHorizontal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Zortress  |  Asset Classification"
+            },
+            "lblDocumentDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Date of first use:10-4-2020  |  Expiry Date:13-12-2021 "
+            },
+            "lblDocumentID": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "MLR ID:23244  |  Additional ID: 87438"
+            },
+            "lblHeading": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Practice Document WPD-NPC-001.pdf"
+            },
+            "lblStripHorizontal": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "06",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segDocument",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cc4891c22d7e41618c945a22ffb03b22",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxDocumentMain",
+    "pf": "frmDocuments",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "a59a8fa44a14473fbd6c5d24601a246a",
+    "rowcounter": 6,
+    "rowfocusskin": "s85548e4b51a4d3b8ac374c6c8874970",
+    "rowskin": "sfa42f75c09c4b858e8c5d5276ac7064",
+    "rowtemplate": "flxsecDocumentRowTemplate",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sa2e16f5425241288ab4f7722d43a9be",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxsecDocumentRowTemplate": "flxsecDocumentRowTemplate",
+        "lblDescription": "lblDescription",
+        "lblDocumentDate": "lblDocumentDate",
+        "lblDocumentID": "lblDocumentID",
+        "lblHeading": "lblHeading",
+        "lblStripHorizontal": "lblStripHorizontal"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,248 @@
+{
+    "classname": "CustomAlert",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "ba6cec4ca313464b85e4a08809fa0824",
+                    "originalPropertyKey": "onClick",
+                    "propertyIndex": 1,
+                    "propertyKey": "onAlertDoneClick",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "onAlertDoneClick",
+                        "srcWidget": "btnAlertDone",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "e8d2c3e8cc644a1c9014fd82284b8e71",
+                    "translateAtInstance": false
+                }
+            ]
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "e733483869be473ba8fe13cfb91019cb",
+                    "originalPropertyKey": "src",
+                    "propertyIndex": 1,
+                    "propertyKey": "IconSrc",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "widget",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "source",
+                        "isHiddenInTool": false,
+                        "srcWidget": "imgAlertIcon",
+                        "type": "string",
+                        "uiConfig": {
+                            "Button": {
+                                "dataRetrieverId": "Imagelist",
+                                "dataUpdaterId": "Imagelist",
+                                "popupId": "Imagelist",
+                                "type": "ImageEditBtn"
+                            },
+                            "Label": {}
+                        },
+                        "uiRepresentation": "Label-Label-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "j95b65d25a084633bb96e88e08923e71"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "hd9fa86a0dd54ca3bde149e041e488f4",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 2,
+                    "propertyKey": "DocIDText",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "isHiddenInTool": false,
+                        "srcWidget": "lblAlertDocID",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "c1c9c2306c724d2e8df1e59563ff202a"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "f3f48a40de194e8eba9f6636d1df1db3",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 3,
+                    "propertyKey": "BrandNameText",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "isHiddenInTool": false,
+                        "srcWidget": "lblAlertBrandName",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "bb937544fe4c487d99653b9089418297"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "fd6fadef2ac2479ba263cbc390bf86f8",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 4,
+                    "propertyKey": "FileNameText",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "isHiddenInTool": false,
+                        "srcWidget": "lblAlertFileName",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "fed1ca73f57046b69dcd59df2a900efa"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "c2f32687400c4329b327fa5abd2aa990",
+                    "originalPropertyKey": "text",
+                    "propertyIndex": 5,
+                    "propertyKey": "ErrorMessage",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Text",
+                        "isHiddenInTool": false,
+                        "srcWidget": "lblErrorMessage",
+                        "type": "string",
+                        "uiRepresentation": "Label-Textbox",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "dc1ae86558f543da8c3f0edd40ad5dae"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "jfb1ff38c4b7419e8e1e4cca52619c5b",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 6,
+                    "propertyKey": "AlertVisible",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Visible",
+                        "isHiddenInTool": false,
+                        "srcWidget": "CustomAlert",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "a8e1d8bf85b341209b20cfeb3ade0f26"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "c7c4d821dac74c478497724310993159",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 7,
+                    "propertyKey": "DocIDVisibility",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Visible",
+                        "isHiddenInTool": false,
+                        "srcWidget": "lblAlertDocID",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "c1c9c2306c724d2e8df1e59563ff202a"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "da31135be7f8449488820ff4b076e3af",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 8,
+                    "propertyKey": "BrandNameVisibility",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Visible",
+                        "isHiddenInTool": false,
+                        "srcWidget": "lblAlertBrandName",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "bb937544fe4c487d99653b9089418297"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "eb2505751d984788ae770d38d536259e",
+                    "originalPropertyKey": "isVisible",
+                    "propertyIndex": 9,
+                    "propertyKey": "FileNameVisibility",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Visible",
+                        "isHiddenInTool": false,
+                        "srcWidget": "lblAlertFileName",
+                        "type": "boolean",
+                        "uiRepresentation": "Label-Radiobuttongroup",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "fed1ca73f57046b69dcd59df2a900efa"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "UIComponent",
+    "version": "1.0.0"
+}

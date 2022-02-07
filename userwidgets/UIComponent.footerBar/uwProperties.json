@@ -1,0 +1,68 @@
+{
+    "classname": "footerBar",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "j678c6a33be74b858426882e3261eb6c",
+                    "paramList": [
+                        {
+                            "name": "pageName"
+                        }
+                    ],
+                    "propertyKey": "setActiceStateMenu",
+                    "pw": {
+                        "displayName": "setActiceStateMenu",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "b8df1ac3562c4bb3ba9b3e0fad74f100",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "c655de9d432747ccb29c4f740362aeae",
+                    "originalPropertyKey": "onClick",
+                    "propertyIndex": 1,
+                    "propertyKey": "onSettingsClick",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "onSettingsClick",
+                        "srcWidget": "flxSettings",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "g09ef00b64024dfdae75433d5a5a5043",
+                    "translateAtInstance": false
+                }
+            ]
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "UIComponent",
+    "version": "1.0.0"
+}

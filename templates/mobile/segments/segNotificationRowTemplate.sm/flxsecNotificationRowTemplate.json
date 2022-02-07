@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa985589b985438bba0a1c07e6f12e6c",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblStripHorizontal",
+        "lblNotificationHeader",
+        "lblHeading",
+        "lblDescription",
+        "lblDocumentDate"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "flxsecNotificationRowTemplateController"
+        }
+    },
+    "enablescrolling": true,
+    "id": "flxsecNotificationRowTemplate",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "g2ebf206d373462e8bdaff92b2bae1aa",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "segNotificationRowTemplate",
+    "pf": "segNotificationRowTemplate",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

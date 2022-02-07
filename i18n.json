@@ -1,0 +1,66 @@
+{
+  "keys": [
+    "i18n.CustomAlertWithInput.Cancel",
+    "i18n.CustomAlertWithInput.Enter_A_Reference",
+    "i18n.CustomAlertWithInput.Manua_Input",
+    "i18n.CustomAlertWithInput.Submit",
+    "i18n.HeaderBar.Welcome",
+    "i18n.footerBar.Docs",
+    "i18n.footerBar.Home",
+    "i18n.footerBar.Notification",
+    "i18n.footerBar.Settings",
+    "i18n.CustomActionSheet.Settings",
+    "i18n.CustomActionSheet.Sync",
+    "i18n.CustomActionSheet.LastSync",
+    "i18n.CustomActionSheet.LogOut",
+    "i18n.CustomActionSheet.Cancel",
+    "i18n.CustomAlert.Done",
+    "i18n.CustomAlert.ExpireStatus",
+    "i18n.frmDocumentMainCategory.Home",
+    "i18n.frmDocumentMainCategory.Document",
+    "i18n.frmDocumentMainCategory.Initiation",
+    "i18n.frmDocumentMainCategory.Demo",
+    "i18n.frmHome.Qrcode",
+    "i18n.frmHome.ManualInput",
+    "i18n.frmHome.ScannedDocuments",
+    "i18n.frmHome.Status"
+  ],
+  "locales": {
+    "en": {
+      "i18nStrings": {
+        "i18n.CustomAlertWithInput.Cancel": "Cancel",
+        "i18n.CustomAlertWithInput.Enter_A_Reference": "Enter a reference",
+        "i18n.CustomAlertWithInput.Manua_Input": "Manual Input",
+        "i18n.CustomAlertWithInput.Submit": "Submit",
+        "i18n.HeaderBar.Welcome": "Welcome!",
+        "i18n.footerBar.Docs": "Docs",
+        "i18n.footerBar.Home": "Home",
+        "i18n.footerBar.Notification": "Notification",
+        "i18n.footerBar.Settings": "Settings",
+        "i18n.CustomActionSheet.Settings": "Settings",
+        "i18n.CustomActionSheet.Sync": "Sync",
+        "i18n.CustomActionSheet.LastSync": "Last Sync",
+        "i18n.CustomActionSheet.LogOut": "Log Out",
+        "i18n.CustomActionSheet.Cancel": "Cancel",
+        "i18n.CustomAlert.Done":"Done",
+        "i18n.CustomAlert.ExpireStatus":"Document has expired",
+        "i18n.frmDocumentMainCategory.Home":"< Home",
+        "i18n.frmDocumentMainCategory.Document":"Document",
+        "i18n.frmDocumentMainCategory.Initiation":"Initiation",
+        "i18n.frmDocumentMainCategory.Demo":"Demo",
+        "i18n.frmHome.ScannedDocuments":"SCANNED DOCUMENTS",
+        "i18n.frmHome.Status":"Status",
+        "i18n.frmHome.Qrcode":"Qr Code",
+        "i18n.frmHome.ManualInput":"Manual Input"
+
+      },
+      "isCustomLocale": false,
+      "isSelected": true,
+      "layoutConfig": {
+        "mirrorContentAlignment": false,
+        "mirrorFlexPositionProperties": false,
+        "mirrorFlowHorizontalAlignment": false
+      }
+    }
+  }
+}

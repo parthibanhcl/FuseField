@@ -1,0 +1,41 @@
+{
+    "classname": "mainpage",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [
+                {
+                    "kuid": "c55d403908cb454f93efa4726ca475a8",
+                    "propertyKey": "flxContainer",
+                    "srcWgtKUID": "ea7acedf3b004707ad71eea8adb126b1"
+                }
+            ],
+            "passthrough": [
+                {
+                    "kuid": "d270b4dbacaa4ab29b25c20b66653eb4",
+                    "propertyKey": "flxContainer",
+                    "srcWgtKUID": "ea7acedf3b004707ad71eea8adb126b1"
+                }
+            ]
+        }
+    },
+    "namespace": "UIComponent",
+    "version": "1.0.0"
+}

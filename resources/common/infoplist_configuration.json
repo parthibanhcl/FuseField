@@ -1,0 +1,20 @@
+
+{
+/*
+    "NSAppTransportSecurity" :
+    {
+        "NSAllowsArbitraryLoads" : true ,
+        "NSExceptionDomains" :
+            {
+                "example.com" :
+                    {
+                        "NSIncludesSubdomains" : true ,
+                        "NSExceptionAllowsInsecureHTTPLoads" : true
+                    }
+            }
+    } ,
+ */
+    "NSCameraUsageDescription" : "To Scan QR codes"
+
+}
+
