@@ -11,7 +11,7 @@
                 {
                     "access": "Enable",
                     "group": "General",
-                    "kuid": "ba6cec4ca313464b85e4a08809fa0824",
+                    "kuid": "hb8ac9f25b6c4665ad0411850a007361",
                     "originalPropertyKey": "onClick",
                     "propertyIndex": 1,
                     "propertyKey": "onAlertDoneClick",
@@ -25,6 +25,25 @@
                         "wType": "Button"
                     },
                     "srcWgtKUID": "e8d2c3e8cc644a1c9014fd82284b8e71",
+                    "translateAtInstance": false
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "ea41852660424a768094e2b621742e06",
+                    "originalPropertyKey": "onTouchEnd",
+                    "propertyIndex": 2,
+                    "propertyKey": "showPDFFile",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "showPDFFile",
+                        "srcWidget": "lblAlertFileName",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "Label"
+                    },
+                    "srcWgtKUID": "fed1ca73f57046b69dcd59df2a900efa",
                     "translateAtInstance": false
                 }
             ]

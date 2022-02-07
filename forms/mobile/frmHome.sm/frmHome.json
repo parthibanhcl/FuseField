@@ -37,7 +37,8 @@
     "children": [
         "mainpage",
         "CustomAlertWithInput",
-        "CustomAlert"
+        "CustomAlert",
+        "PdfViewer"
     ],
     "containerweight": 100,
     "controllerInfo": {

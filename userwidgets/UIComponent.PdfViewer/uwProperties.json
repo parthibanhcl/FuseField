@@ -1,0 +1,65 @@
+{
+    "classname": "PdfViewer",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "f094ac00b3064f31ac657dbb19e9975c",
+                    "paramList": [],
+                    "propertyIndex": 2,
+                    "propertyKey": "viewPDF",
+                    "pw": {
+                        "displayName": "viewPDF",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "ebe39426ebae4f85bcadf5c738eb909f",
+                    "type": "event"
+                }
+            ],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "bae0f6aa050645b080b6d8100a8e547d",
+                    "originalPropertyKey": "onClick",
+                    "propertyIndex": 1,
+                    "propertyKey": "closePDFView",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "closePDFView",
+                        "srcWidget": "flxHeaderImg",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "g324b2ff90674a2eb5948c79e678aa35",
+                    "translateAtInstance": false
+                }
+            ]
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "UIComponent",
+    "version": "1.0.0"
+}
