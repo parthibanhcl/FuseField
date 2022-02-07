@@ -9,12 +9,25 @@
             "custom": [
                 {
                     "group": "General",
-                    "kuid": "f094ac00b3064f31ac657dbb19e9975c",
+                    "kuid": "iede55b80314462f8125f26f5ddc821a",
                     "paramList": [],
                     "propertyIndex": 2,
                     "propertyKey": "viewPDF",
                     "pw": {
                         "displayName": "viewPDF",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "ebe39426ebae4f85bcadf5c738eb909f",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "h71b27696a9744ef93c6db282c1399ad",
+                    "paramList": [],
+                    "propertyIndex": 3,
+                    "propertyKey": "commonClosePDFView",
+                    "pw": {
+                        "displayName": "commonClosePDFView",
                         "uiRepresentation": "Label-Label-Button-Button"
                     },
                     "srcWgtKUID": "ebe39426ebae4f85bcadf5c738eb909f",
@@ -25,7 +38,7 @@
                 {
                     "access": "Enable",
                     "group": "General",
-                    "kuid": "bae0f6aa050645b080b6d8100a8e547d",
+                    "kuid": "e33595d389874394bc56e1394dbaba4c",
                     "originalPropertyKey": "onClick",
                     "propertyIndex": 1,
                     "propertyKey": "closePDFView",

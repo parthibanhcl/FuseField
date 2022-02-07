@@ -13,6 +13,9 @@ define(function() {
         };
         this.view.setVisibility(true);
         },
+         commonClosePDFView: function(){
+           this.view.setVisibility(false);
+         },
  
           
 		//Logic for getters/setters of custom properties

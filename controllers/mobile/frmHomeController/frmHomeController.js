@@ -36,7 +36,8 @@ define({
     this.view.PdfViewer.viewPDF("https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf");
   },
    closePDFView: function() {
-        this.view.PdfViewer.setVisibility(false);
+//         this.view.PdfViewer.setVisibility(false);
+     this.view.PdfViewer.commonClosePDFView();
         
         },
 });
