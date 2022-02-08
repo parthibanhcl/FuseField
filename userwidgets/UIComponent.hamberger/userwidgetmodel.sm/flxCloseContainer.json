@@ -19,8 +19,8 @@
     ],
     "_percent_": true,
     "_right_": {
-        "type": "number",
-        "value": "20"
+        "type": "string",
+        "value": "3%"
     },
     "_skin_": "s269ac3818604c59893a0f45ac295393",
     "_top_": {
@@ -56,5 +56,5 @@
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "zindex": 1
+    "zindex": 10
 }

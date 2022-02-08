@@ -23,14 +23,14 @@
         0
     ],
     "_skin_": "s0296f2aa34441efa0cf8cf64c01db4b",
-    "_src_": "imagedrag.png",
+    "_src_": "documents.png",
     "_top_": {
         "type": "number",
         "value": "0"
     },
     "_width_": {
         "type": "string",
-        "value": "20%"
+        "value": "15%"
     },
     "canUpdateUI": true,
     "containerweight": 100,

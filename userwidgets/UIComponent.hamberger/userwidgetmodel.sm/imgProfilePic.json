@@ -19,7 +19,7 @@
         0
     ],
     "_skin_": "s0296f2aa34441efa0cf8cf64c01db4b",
-    "_src_": "ava.png",
+    "_src_": "userdeafult.png",
     "_top_": {
         "type": "number",
         "value": "0"
@@ -31,7 +31,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "49.99%"
     },
     "containerweight": 100,
     "id": "imgProfilePic",

@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "30%"
+        "value": "20%"
     },
     "_margin_": [
         1,
@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "s8736fdbf90f4b4db518f2fab2973e9c",
+    "_skin_": "sb3be29d07af481bb7cfd478c3fda9a0",
     "_text_": "NOTIFICAITONS",
     "_top_": {
         "type": "number",
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "50.03%"
     },
     "containerweight": 100,
     "contentalignment": 4,

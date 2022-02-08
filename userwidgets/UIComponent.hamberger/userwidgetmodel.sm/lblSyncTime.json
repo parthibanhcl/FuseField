@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "s8736fdbf90f4b4db518f2fab2973e9c",
+    "_skin_": "s81fa4308c854bf494d832fc566d5cbb",
     "_text_": "Last Sync : 10/12/2022 15:25:37",
     "_top_": {
         "type": "number",
@@ -29,7 +29,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "60%"
+        "value": "50%"
     },
     "_wrapping_": 2,
     "android": {
