@@ -23,7 +23,7 @@
         0
     ],
     "_skin_": "s0296f2aa34441efa0cf8cf64c01db4b",
-    "_src_": "icon_feather_settings.png",
+    "_src_": "settings_unselected.png",
     "_top_": {
         "type": "string",
         "value": "16dp"

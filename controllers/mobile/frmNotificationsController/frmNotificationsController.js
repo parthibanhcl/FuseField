@@ -1,6 +1,6 @@
 define({ 
   onNavigate:function(){
-    this.view.footerBar.setActiceStateMenu("Notifications");
+    this.view.footerBar.setActiveStateMenu("Notifications");
     this.view.btnDocNew.onClick=this.onBtnDocNew;
     this.view.btnDocRetired.onClick=this.onBtnDocRetired;
     this.view.CustomActionSheet.setVisibility(false);

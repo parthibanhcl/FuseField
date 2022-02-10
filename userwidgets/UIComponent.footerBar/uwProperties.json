@@ -5,15 +5,15 @@
             "custom": [
                 {
                     "group": "General",
-                    "kuid": "j678c6a33be74b858426882e3261eb6c",
+                    "kuid": "f5892a4c1dca4a6cb068f9c6a6f565c5",
                     "paramList": [
                         {
                             "name": "pageName"
                         }
                     ],
-                    "propertyKey": "setActiceStateMenu",
+                    "propertyKey": "setActiveStateMenu",
                     "pw": {
-                        "displayName": "setActiceStateMenu",
+                        "displayName": "setActiveStateMenu",
                         "uiRepresentation": "Label-Label-Button-Button"
                     },
                     "srcWgtKUID": "b8df1ac3562c4bb3ba9b3e0fad74f100",

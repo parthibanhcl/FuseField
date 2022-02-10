@@ -24,7 +24,7 @@
         0
     ],
     "_skin_": "s0296f2aa34441efa0cf8cf64c01db4b",
-    "_src_": "group_1894.png",
+    "_src_": "manual_input.png",
     "_top_": {
         "type": "string",
         "value": "14dp"
@@ -42,6 +42,7 @@
     "id": "imgManual",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "d6a7a8eb0ca046f1963f2e243a8f28aa",

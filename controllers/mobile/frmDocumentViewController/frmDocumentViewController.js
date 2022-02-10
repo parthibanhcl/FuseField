@@ -1,7 +1,7 @@
 define({ 
 
   onNavigate:function(){
-    this.view.footerBar.setActiceStateMenu("Documents");
+    this.view.footerBar.setActiveStateMenu("Documents");
     this.view.imgBack.onTouchEnd=this.onBackButtonClick;
     //     this.view.CustomAlert.imgIconSrc="icon_feather_check_circle.png";
     //     this.view.CustomAlert.onAlertDoneClick=this.onAlertDoneClick;

@@ -5,7 +5,7 @@ define({
       this.view.btnDocApprove.onClick=this.onBtnDocApprove;
       this.view.btnDocExpired.onClick=this.onBtnDocExpire;
       this.view.btnDocArchived.onClick=this.onBtnDocArchived;
-      this.view.footerBar.setActiceStateMenu("Documents");
+      this.view.footerBar.setActiveStateMenu("Documents");
       this.view.segDocument.onRowClick=this.onSegmentRowClick;
       this.view.lblBack.text="< "+context.mainMainLabelText;
       this.view.lblTitle.text=context.subMenuLabelText;

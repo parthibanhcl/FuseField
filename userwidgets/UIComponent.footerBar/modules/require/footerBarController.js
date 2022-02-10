@@ -24,26 +24,26 @@ define(function() {
       form.navigate();
     },
     onFooterReset : function(){
-      this.view.imgHome.src = "group_1940_2.png";
-      this.view.imgDocument.src = "group_1941.png";
-      this.view.imgNotifications.src = "icon_ionic_ios_notifications_outline.png";
-      this.view.imgSettings.src = "icon_feather_settings.png";
+      this.view.imgHome.src = "home_unselected.png";
+      this.view.imgDocument.src = "doucment_unselected.png";
+      this.view.imgNotifications.src = "notification_unselected.png";
+      this.view.imgSettings.src = "settings_unselected.png";
       this.view.lblHome.skin = "sknLblGray";
       this.view.lblDocument.skin="sknLblGray";
       this.view.lblNotifications.skin="sknLblGray";
       this.view.lblSettings.skin="sknLblGray";
     },
-    setActiceStateMenu : function(pageName){
+    setActiveStateMenu : function(pageName){
       this.onFooterReset();
       if(pageName==="Documents"){
-        this.view.lblDocument.skin="sknBlue";
-        this.view.imgDocument.src="group_1941_2.png";
+        this.view.lblDocument.skin="sknVioletColor";
+        this.view.imgDocument.src="doucment_selected.png";
       } else if(pageName==="Notifications"){
-        this.view.lblNotifications.skin="sknBlue";
-        this.view.imgNotifications.src="icon_ionic_ios_notifications_outline_2.png";
+        this.view.lblNotifications.skin="sknVioletColor";
+        this.view.imgNotifications.src="notification_selected.png";
       } else if(pageName==="Home"){
-        this.view.lblHome.skin  ="sknBlue";
-        this.view.imgHome.src="group_1940.png";
+        this.view.lblHome.skin  ="sknVioletColor";
+        this.view.imgHome.src="home_selected.png";
       }
     },
   };

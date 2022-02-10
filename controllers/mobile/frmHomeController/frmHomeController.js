@@ -21,7 +21,7 @@ define({
     this.view.CustomAlertWithInput.setVisibility(false);
   },
   onAlertSubmit:function(){
-    var referenceText =this.view.CustomAlertWithInput.referenceText;
+    var referenceText = this.view.CustomAlertWithInput.referenceText;
     
     if(referenceText!==null && referenceText.length===6){
       this.view.CustomAlertWithInput.setVisibility(false);

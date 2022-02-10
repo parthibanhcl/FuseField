@@ -5,7 +5,7 @@ define({
   onNavigate:function(param){
     //to highlight the footer icon
       if(param !== "back"){
-       this.view.footerBar.setActiceStateMenu("Documents");
+       this.view.footerBar.setActiveStateMenu("Documents");
 
       this.view.flxInitiationContainer.onClick=function(){
         var labelText=this.view.lblDocmentTypeOne.text;

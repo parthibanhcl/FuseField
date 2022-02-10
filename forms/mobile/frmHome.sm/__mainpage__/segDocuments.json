@@ -9,14 +9,16 @@
     "_data_": [
         [
             {
+                "imgFolderIcon": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "doucment_unselected.png"
+                },
                 "lblHeaderStatus": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "i18nkey": "i18n.frmHome.Status",
                     "text": "Status"
                 },
                 "lblHeading": {
                     "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                    "i18nkey": "i18n.frmHome.ScannedDocuments",
                     "text": "SCANNED DOCUMENTS"
                 }
             },
@@ -178,7 +180,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": 0,
+    "selectedsectionindex": null,
     "selectionbehavior": "default",
     "separatorrequired": false,
     "showprogressindicator": true,
@@ -190,6 +192,7 @@
     "widgetdatamap": {
         "flxSectionHeaderTemplate": "flxSectionHeaderTemplate",
         "flxsecHomeRowTemplate": "flxsecHomeRowTemplate",
+        "imgFolderIcon": "imgFolderIcon",
         "lblDescription": "lblDescription",
         "lblDocumentDate": "lblDocumentDate",
         "lblHeaderStatus": "lblHeaderStatus",
