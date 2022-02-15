@@ -23,7 +23,7 @@
         0
     ],
     "_skin_": "s0296f2aa34441efa0cf8cf64c01db4b",
-    "_src_": "group_1965.png",
+    "_src_": "back_icon.png",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -45,6 +45,7 @@
     "id": "imgBack",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "b453f67470484173bb29ce24335763d4",

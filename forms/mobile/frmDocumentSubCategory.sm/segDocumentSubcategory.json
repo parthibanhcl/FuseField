@@ -1,0 +1,202 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "imgPlus": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "plus_icon.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ma liste positive PROMO"
+            }
+        },
+        {
+            "imgPlus": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "plus_icon.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ma liste positive PROMO"
+            }
+        },
+        {
+            "imgPlus": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "plus_icon.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ma liste positive PROMO"
+            }
+        },
+        {
+            "imgPlus": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "plus_icon.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ma liste positive PROMO"
+            }
+        },
+        {
+            "imgPlus": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "plus_icon.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ma liste positive PROMO"
+            }
+        },
+        {
+            "imgPlus": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "plus_icon.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ma liste positive PROMO"
+            }
+        },
+        {
+            "imgPlus": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "plus_icon.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ma liste positive PROMO"
+            }
+        },
+        {
+            "imgPlus": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "plus_icon.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ma liste positive PROMO"
+            }
+        },
+        {
+            "imgPlus": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "plus_icon.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ma liste positive PROMO"
+            }
+        },
+        {
+            "imgPlus": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "plus_icon.png"
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ma liste positive PROMO"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segDocumentSubcategory",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c2cfe47ee2b848e4898f05dcf1ce734d",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxMainSection",
+    "pf": "frmDocumentSubCategory",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "e2ba3dadbe7e401c93350a60f38e6975",
+    "rowcounter": 9,
+    "rowfocusskin": "s85548e4b51a4d3b8ac374c6c8874970",
+    "rowskin": "sfa42f75c09c4b858e8c5d5276ac7064",
+    "rowtemplate": "flxMainContainer",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sa2e16f5425241288ab4f7722d43a9be",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxMainContainer": "flxMainContainer",
+        "flxSubContainer": "flxSubContainer",
+        "imgPlus": "imgPlus",
+        "lblTitle": "lblTitle"
+    },
+    "zindex": 1
+}

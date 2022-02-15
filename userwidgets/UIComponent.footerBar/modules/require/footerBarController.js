@@ -44,6 +44,9 @@ define(function() {
       } else if(pageName==="Home"){
         this.view.lblHome.skin  ="sknVioletColor";
         this.view.imgHome.src="home_selected.png";
+      } else if(pageName==="Settings"){
+        this.view.lblSettings.skin  ="sknVioletColor";
+        this.view.imgSettings.src="settings_selected.png";
       }
     },
   };

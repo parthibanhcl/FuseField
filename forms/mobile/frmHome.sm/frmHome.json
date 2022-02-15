@@ -18,7 +18,7 @@
     "_pxMenuIndex": [
         0,
         1,
-        2
+        5
     ],
     "_skin_": "s4887933f97a4533b50770b7308042ef",
     "_title_": null,
@@ -38,7 +38,8 @@
         "mainpage",
         "CustomAlertWithInput",
         "CustomAlert",
-        "PdfViewer"
+        "PdfViewer",
+        "flxMenuContainer"
     ],
     "containerweight": 100,
     "controllerInfo": {

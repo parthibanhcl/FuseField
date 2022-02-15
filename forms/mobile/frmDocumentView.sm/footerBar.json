@@ -39,7 +39,7 @@
     "id": "footerBar",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "f120292d70654ac88d4962ee15c44ac9",
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",

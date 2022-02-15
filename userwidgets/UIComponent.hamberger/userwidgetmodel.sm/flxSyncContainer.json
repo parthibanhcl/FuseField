@@ -47,7 +47,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "i24e9e6907754037905ac51ea86635c4",
-    "layouttype": 2,
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "flxMenu",
     "pf": "userwidgetmodel",

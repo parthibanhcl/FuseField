@@ -17,7 +17,8 @@
             "spaip": {},
             "spawinphone8": {},
             "winphone10": {},
-            "winphone8": {}
+            "winphone8": {},
+            "splashImage": null
         },
         "tablet": {
             "android": {},

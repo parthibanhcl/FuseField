@@ -26,15 +26,15 @@
                 {
                     "lblDescription": {
                         "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": "Zortress . Asset Classification"
+                        "text": ""
                     },
                     "lblDocumentDate": {
                         "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": "Expiry Date:13-12-2021 | Date of first use:13-12-202"
+                        "text": ""
                     },
                     "lblHeading": {
                         "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": "Practice Document WPD-NPC-001.pdf"
+                        "text": ""
                     },
                     "lblStripHorizontal": {
                         "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -42,51 +42,7 @@
                     },
                     "lblTime": {
                         "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": "Expired"
-                    }
-                },
-                {
-                    "lblDescription": {
-                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": "Zortress . Asset Classification"
-                    },
-                    "lblDocumentDate": {
-                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": "States Airlines"
-                    },
-                    "lblHeading": {
-                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": "Practice Document WPD-NPC-001.pdf"
-                    },
-                    "lblStripHorizontal": {
-                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                         "text": ""
-                    },
-                    "lblTime": {
-                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": "Not found"
-                    }
-                },
-                {
-                    "lblDescription": {
-                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": "Zortress . Asset Classification"
-                    },
-                    "lblDocumentDate": {
-                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": "States Airlines"
-                    },
-                    "lblHeading": {
-                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": "Practice Document WPD-NPC-001.pdf"
-                    },
-                    "lblStripHorizontal": {
-                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": ""
-                    },
-                    "lblTime": {
-                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                        "text": "Expires on 13-12-2021"
                     }
                 }
             ]
@@ -125,7 +81,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "containerweight": 100,
-    "counter": "02",
+    "counter": "00",
     "editstyle": "none",
     "enabledictionary": false,
     "focusedindex": null,
@@ -166,7 +122,7 @@
     "retainflexpositionproperties": false,
     "retainselection": false,
     "rowTemplateId": "5b5ada69c50746feba6a40270fa09838",
-    "rowcounter": 2,
+    "rowcounter": 0,
     "rowfocusskin": "s85548e4b51a4d3b8ac374c6c8874970",
     "rowskin": "sfa42f75c09c4b858e8c5d5276ac7064",
     "rowtemplate": "flxSampleRowTemplate",
@@ -180,7 +136,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": null,
+    "selectedsectionindex": 0,
     "selectionbehavior": "default",
     "separatorrequired": false,
     "showprogressindicator": true,

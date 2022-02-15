@@ -7,7 +7,27 @@
         },
         "events": {
             "custom": [],
-            "passthrough": []
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "i4a70aa4ed284c6fa78c005c2ee24a9a",
+                    "originalPropertyKey": "onTouchEnd",
+                    "propertyIndex": 1,
+                    "propertyKey": "imgHeaderOnTouchEnd",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "imgHeaderOnTouchEnd",
+                        "srcWidget": "imgHeader",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "Image"
+                    },
+                    "srcWgtKUID": "h9ed69d0a75f451aa5cc63cffb9e38d3",
+                    "translateAtInstance": false
+                }
+            ]
         },
         "groups": {
             "apis": [],

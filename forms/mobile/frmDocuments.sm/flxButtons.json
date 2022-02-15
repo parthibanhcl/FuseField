@@ -43,9 +43,11 @@
         "value": "50%"
     },
     "children": [
-        "btnDocApprove",
-        "btnDocExpired",
-        "btnDocArchived"
+        "flxApproved",
+        "flxSeparatorOne",
+        "flxExpired",
+        "flxSeparatorTwo",
+        "flxArchived"
     ],
     "clipbounds": true,
     "containerweight": 100,
@@ -54,7 +56,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "bd4d1098da7b4a2bb4989aa16200bab9",
+    "kuid": "b7a8f1b3f35f4bf19195e798c8ebfe91",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "flxDocButtonContainer",

@@ -48,7 +48,7 @@
     "isvisible": true,
     "kuid": "ad3c691eddef463e87bc223281c2f804",
     "name": "kony.ui.Button",
-    "parent": "flxButtons",
+    "parent": "flxButtonsOld",
     "pf": "frmNotifications",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

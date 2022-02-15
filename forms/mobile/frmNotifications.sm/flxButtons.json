@@ -43,8 +43,8 @@
         "value": "50%"
     },
     "children": [
-        "btnDocNew",
-        "btnDocRetired"
+        "flxNew",
+        "flxRetired"
     ],
     "clipbounds": true,
     "containerweight": 100,
@@ -53,7 +53,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "jf7ea0d9b83f43bab7b48cae25be8cc9",
+    "kuid": "ea10854d639648cda401b4811575cba7",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
     "parent": "flxNotificationButtonContainer",

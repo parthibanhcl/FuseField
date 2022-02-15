@@ -48,7 +48,7 @@
     "id": "flxColumnOne",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "eded9f4f161a4d158cd6073d502f728e",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",

@@ -7,25 +7,32 @@ define({
       this.view.footerBar.setActiveStateMenu("Documents");
       this.view.lblTitle.text=context.labelText;
 
-      this.view.flxBack.onTouchEnd=function(){
-        this.onBackButtonClick(context.labelText);
-      }.bind(this);
-      this.view.flxColumnOne.onClick=function(){
-        var mainMenulabelText=context.labelText;
-        var subMenulabelText=this.view.lblDocTitle.text;
-        this.navigateToNextPage(mainMenulabelText,subMenulabelText);
-      }.bind(this);
+      this.view.flxBack.onTouchEnd= this.onBackButtonClick;
+
+      this.loadSubCategoryToSegment();
+      this.view.segDocumentSubcategory.onRowClick=this.navigateToNextPage;
     }
      
       
   },
-  onBackButtonClick:function(labelName){
+  onBackButtonClick:function(){
     var navigateToPreviousForm = new kony.mvc.Navigation("frmDocuentMainCategory");
     navigateToPreviousForm.navigate();
   },
-  navigateToNextPage(mainMenuLabel,subMenuLabel){
+  navigateToNextPage(selectedRowData){
     var form = new kony.mvc.Navigation("frmDocuments");
-    form.navigate({mainMainLabelText:mainMenuLabel,subMenuLabelText:subMenuLabel});
-  }
+     form.navigate({mainMainLabelText:this.view.lblTitle.text,subMenuLabelText:selectedRowData.selectedItems[0].lblTitle.text});
+  },
+  loadSubCategoryToSegment:function(){
+    this.view.segDocumentSubcategory.setData([     
+        {imgPlus:{"src":"plus_icon.png"},lblTitle:{"text":"Ma liste positive PROMO"}},
+        {imgPlus:{"src":"plus_icon.png"},lblTitle:{"text":"Tous les docs valides PROMO"}},
+        {imgPlus:{"src":"plus_icon.png"},lblTitle:{"text":"Docs obsoletes PROMO"}},
+        {imgPlus:{"src":"plus_icon.png"},lblTitle:{"text":"FF NVS CAG"}},
+        {imgPlus:{"src":"plus_icon.png"},lblTitle:{"text":"Ma liste positive NON PROMO"}},
+        {imgPlus:{"src":"plus_icon.png"},lblTitle:{"text":"Tous les docs valides NON PROMO"}},
+        {imgPlus:{"src":"plus_icon.png"},lblTitle:{"text":"Docs obsoletes NON PROMO"}},
+    ]);
+  },
 
 });

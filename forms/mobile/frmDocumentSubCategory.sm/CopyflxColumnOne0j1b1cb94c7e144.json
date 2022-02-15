@@ -48,7 +48,7 @@
     "id": "CopyflxColumnOne0j1b1cb94c7e144",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "a8e3e7eea1014597b5a6dd4cb537059d",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
