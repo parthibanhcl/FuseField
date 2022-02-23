@@ -39,7 +39,7 @@
     "id": "CustomActionSheet",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "j778f4cee0214884b84a64d141c833f1",
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",

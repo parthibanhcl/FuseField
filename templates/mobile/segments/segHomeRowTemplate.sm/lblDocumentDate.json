@@ -1,13 +1,17 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
     "_height_": {
         "type": "ref",
         "value": "preferred"
     },
     "_left_": {
         "type": "string",
-        "value": "15dp"
+        "value": "10dp"
     },
     "_margin_": [
         1,
@@ -19,17 +23,17 @@
         0,
         0,
         0,
-        0
+        1
     ],
     "_skin_": "s72f3536991349e4ae11710e447511b0",
     "_text_": "time",
     "_top_": {
         "type": "string",
-        "value": "50dp"
+        "value": "10dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "90%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -58,7 +62,8 @@
     "isvisible": true,
     "kuid": "a7deb753bf734e3f97ad6107242a7c99",
     "name": "kony.ui.Label",
-    "parent": "flxsecHomeRowTemplate",
+    "paddinginpixel": false,
+    "parent": "flxHeader",
     "pf": "segHomeRowTemplate",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

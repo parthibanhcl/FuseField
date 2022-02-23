@@ -4,11 +4,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "30%"
-    },
-    "_left_": {
-        "type": "number",
-        "value": "0"
+        "value": "50dp"
     },
     "_margin_": [
         0,
@@ -25,12 +21,12 @@
     "_skin_": "s0296f2aa34441efa0cf8cf64c01db4b",
     "_src_": "icon_material_error_outline.png",
     "_top_": {
-        "type": "number",
-        "value": "0"
+        "type": "string",
+        "value": "20dp"
     },
     "_width_": {
         "type": "string",
-        "value": "30%"
+        "value": "50dp"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -39,13 +35,13 @@
     },
     "containerweight": 100,
     "id": "imgAlertIcon",
-    "imagescalemode": 1,
+    "imagescalemode": 0,
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "j95b65d25a084633bb96e88e08923e71",
     "name": "kony.ui.Image2",
-    "parent": "flxAlertContainer",
+    "parent": "flxMainContainer",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

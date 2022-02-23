@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "5dp"
     },
     "_margin_": [
         0,
@@ -30,7 +30,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "18%"
+        "value": "10%"
     },
     "canUpdateUI": true,
     "containerId": true,

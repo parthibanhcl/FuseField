@@ -35,13 +35,6 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "flxColumnOne",
-        "CopyflxColumnOne0be0bde1d88e548",
-        "CopyflxColumnOne0j1b1cb94c7e144",
-        "CopyflxColumnOne0bd77242b131c48",
-        "CopyflxColumnOne0g2961cee272a44",
-        "CopyflxColumnOne0c598b68d2d9c4a",
-        "CopyflxColumnOne0ebbd72cc21a94d",
         "segDocumentSubcategory"
     ],
     "clipbounds": true,

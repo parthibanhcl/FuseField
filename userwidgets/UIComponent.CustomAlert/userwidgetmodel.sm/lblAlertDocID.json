@@ -21,7 +21,7 @@
     "_text_": "39801",
     "_top_": {
         "type": "string",
-        "value": "2%"
+        "value": "30dp"
     },
     "_width_": {
         "type": "ref",
@@ -57,7 +57,7 @@
     "isvisible": true,
     "kuid": "c1c9c2306c724d2e8df1e59563ff202a",
     "name": "kony.ui.Label",
-    "parent": "flxAlertContainer",
+    "parent": "flxMainContainer",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

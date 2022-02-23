@@ -18,10 +18,6 @@
             "lblNotificationHeader": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Notification 1 has been approved."
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
             }
         },
         {
@@ -40,10 +36,6 @@
             "lblNotificationHeader": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Notification 2 has been approved."
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
             }
         },
         {
@@ -62,10 +54,6 @@
             "lblNotificationHeader": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Notification 3 has been approved."
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
             }
         },
         {
@@ -84,10 +72,6 @@
             "lblNotificationHeader": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Notification 4 has been approved."
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
             }
         },
         {
@@ -106,10 +90,6 @@
             "lblNotificationHeader": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Notification 5 has been approved."
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
             }
         },
         {
@@ -128,10 +108,6 @@
             "lblNotificationHeader": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Notification 6 has been approved."
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
             }
         },
         {
@@ -150,10 +126,6 @@
             "lblNotificationHeader": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Notification 7 has been approved."
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Label"
             }
         }
     ],
@@ -185,10 +157,14 @@
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "94%"
     },
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "counter": "06",
     "focusedindex": null,
@@ -247,12 +223,12 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
+        "flxStrip": "flxStrip",
         "flxsecNotificationRowTemplate": "flxsecNotificationRowTemplate",
         "lblDescription": "lblDescription",
         "lblDocumentDate": "lblDocumentDate",
         "lblHeading": "lblHeading",
-        "lblNotificationHeader": "lblNotificationHeader",
-        "lblStripHorizontal": "lblStripHorizontal"
+        "lblNotificationHeader": "lblNotificationHeader"
     },
     "zindex": 1
 }

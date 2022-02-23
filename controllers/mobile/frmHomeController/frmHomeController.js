@@ -22,6 +22,7 @@ define({
     this.view.hamberger.onNotificationMenuItemClick=function(){
       this.onMenuClickNavigation("frmNotifications");
     }.bind(this);
+    this.view.mainpage.flxContainer.segDocuments.onRowClick=this.showPDFFile;
     this.loadScannedDocuments();
   },
   onManualClick:function(){
@@ -57,7 +58,7 @@ define({
   loadScannedDocuments:function(){
     this.view.mainpage.flxContainer.segDocuments.setData([
       [
-        {imgFolderIcon:"doucment_unselected.png",lblHeading:"Scanned DOCUMENTS",lblHeaderStatus:"Status"},
+        {imgFolderIcon:"doucment_unselected.png",lblHeading:"SCANNED DOCUMENTS",lblHeaderStatus:"Status"},
         [
           {lblHeading:"Practice Document WPD-NPC-001.pdf",lblDescription:"Zortress . Asset Classification",lblDocumentDate:"States Airlines",lblTime:{"text":"Expired","skin":"sknAlertRed"}},
           {lblHeading:"Practice Document WPD-NPC-001.pdf",lblDescription:"Zortress . Asset Classification",lblDocumentDate:"States Airlines",lblTime:{"text":"Not Found"}},
@@ -82,6 +83,6 @@ define({
       form.navigate();
     }
 
-  },
+  }
 
 });

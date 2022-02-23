@@ -72,7 +72,7 @@
   "iphone": {
     "background_color": "94019400",
     "bg_type": "one",
-    "font_name": "SF-Pro-Display-Bold",
+    "font_name": "System-Bold",
     "font_size": 90,
     "isForked": true,
     "shadow": {

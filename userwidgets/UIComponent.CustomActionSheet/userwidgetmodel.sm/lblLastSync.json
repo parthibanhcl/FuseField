@@ -29,7 +29,7 @@
     "_text_": "Last Sync",
     "_top_": {
         "type": "string",
-        "value": "3%"
+        "value": "15dp"
     },
     "_width_": {
         "type": "string",
@@ -61,7 +61,7 @@
     "isvisible": true,
     "kuid": "f6ddc753152e4fde9ca9410328bc8ac6",
     "name": "kony.ui.Label",
-    "parent": "flxActionSheet",
+    "parent": "flxLastSync",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

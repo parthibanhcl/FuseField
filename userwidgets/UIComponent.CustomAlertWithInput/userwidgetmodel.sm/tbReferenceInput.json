@@ -3,7 +3,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "40dp"
+        "value": "35dp"
     },
     "_left_": {
         "type": "string",
@@ -26,11 +26,11 @@
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "8%"
+        "value": "20dp"
     },
     "_width_": {
         "type": "string",
-        "value": "80%"
+        "value": "90%"
     },
     "autocapitalize": "none",
     "autocomplete": false,
@@ -45,9 +45,10 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
-    "focusskin": "s93d94c249aa46faa81282f014ac4f36",
+    "focusskin": "se2a6c4723cd407488a3e0875fc6697b",
     "id": "tbReferenceInput",
     "info": null,
+    "iphone": {},
     "iscustomlayout": false,
     "isvisible": true,
     "keyboardstyle": "A",
@@ -58,7 +59,7 @@
     "name": "kony.ui.TextBox2",
     "parent": "flxContent",
     "pf": "userwidgetmodel",
-    "placeholderskin": "s08cd5fd53844b12a4b6ac6f91a157f1",
+    "placeholderskin": null,
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

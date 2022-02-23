@@ -5,10 +5,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_margin_": [
         1,
         1,
@@ -23,10 +19,6 @@
     ],
     "_skin_": "s8b221d7eebd4ea48f775594ab3dc1b8",
     "_text_": "Submit",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_width_": {
         "type": "string",
         "value": "49%"
@@ -61,7 +53,7 @@
     "isvisible": true,
     "kuid": "b83a73e8314f4e25873dd0fe64cbb7ed",
     "name": "kony.ui.Label",
-    "parent": "flxAlertFooter",
+    "parent": "flxButttons",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -21,7 +21,7 @@
     "_text_": "Zortress",
     "_top_": {
         "type": "string",
-        "value": "3%"
+        "value": "10dp"
     },
     "_width_": {
         "type": "ref",
@@ -57,7 +57,7 @@
     "isvisible": true,
     "kuid": "bb937544fe4c487d99653b9089418297",
     "name": "kony.ui.Label",
-    "parent": "flxAlertContainer",
+    "parent": "flxMainContainer",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

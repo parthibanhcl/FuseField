@@ -31,12 +31,14 @@ define({
   },
   
   loadNotificationSegment:function(){
+    
     this.view.segNotification.setData([
       {
-        lblNotificationHeader:{"text":"Notification 1 has been approved."},lblHeading:{"text":"Practice Document WPD-NPC-001.pdf"},lblDescription:{"text":"Zortress  |  Asset Classification"},lblDocumentDate:{"text":"Date of first use:10-4-2020  |  Expiry Date:13-12-2021"}
+        lblNotificationHeader:{"text":"Notification 1 has been approved."},lblHeading:{"text":"Practice Document WPD-NPC-001.pdf"},lblDescription:{"text":"Zortress  |  Asset Classification"},lblDocumentDate:{"text":"Date of first use:10-4-2020  |  Expiry Date:13-12-2021"},
+        flxsecNotificationRowTemplate:{skin:"sknNotificationVioletBgRow"}
       },
       {
-        lblNotificationHeader:{"text":"Notification 2 has been approved."},lblHeading:{"text":"Practice Document WPD-NPC-001.pdf"},lblDescription:{"text":"Zortress  |  Asset Classification"},lblDocumentDate:{"text":"Date of first use:10-4-2020  |  Expiry Date:13-12-2021"}
+        flxsecNotificationRowTemplate:{skin:"sknNotificationVioletBgRow"},lblNotificationHeader:{"text":"Notification 2 has been approved."},lblHeading:{"text":"Practice Document WPD-NPC-001.pdf"},lblDescription:{"text":"Zortress  |  Asset Classification"},lblDocumentDate:{"text":"Date of first use:10-4-2020  |  Expiry Date:13-12-2021"}
       },
       {
         lblNotificationHeader:{"text":"Notification 3 has been approved."},lblHeading:{"text":"Practice Document WPD-NPC-001.pdf"},lblDescription:{"text":"Zortress  |  Asset Classification"},lblDocumentDate:{"text":"Date of first use:10-4-2020  |  Expiry Date:13-12-2021"}

@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "4%"
+        "value": "10dp"
     },
     "_margin_": [
         1,
@@ -28,8 +28,8 @@
         "value": "10dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "70%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -56,10 +56,6 @@
     },
     "isvisible": true,
     "kuid": "d0e3e062e4ca4022bf6cbdecf2da4403",
-    "maxwidth": {
-        "type": "string",
-        "value": "50%"
-    },
     "name": "kony.ui.Label",
     "parent": "flxsecNotificationRowTemplate",
     "pf": "segNotificationRowTemplate",

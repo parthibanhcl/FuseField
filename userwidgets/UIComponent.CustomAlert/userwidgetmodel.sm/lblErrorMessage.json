@@ -57,7 +57,7 @@
     "isvisible": true,
     "kuid": "dc1ae86558f543da8c3f0edd40ad5dae",
     "name": "kony.ui.Label",
-    "parent": "flxAlertContainer",
+    "parent": "flxMainContainer",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

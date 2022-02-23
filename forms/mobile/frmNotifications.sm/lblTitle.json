@@ -24,8 +24,8 @@
     "_skin_": "s9a5dced7f814e5e8e96518f72a38ec0",
     "_text_": "Notifications",
     "_width_": {
-        "type": "string",
-        "value": "100%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {

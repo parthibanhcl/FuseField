@@ -1,10 +1,15 @@
 {
   "android": {
+    "border_color": "3c3c4349",
+    "border_type": 0,
     "font_name": "default",
     "isForked": true
   },
   "androidwearos": {
-    "font_name": "default"
+    "border_color": "3c3c4349",
+    "border_type": 0,
+    "font_name": "default",
+    "isForked": true
   },
   "background_color": "ffffffff",
   "bg_type": "one",
@@ -22,15 +27,23 @@
   "font_style": "normal",
   "font_weight": "400",
   "ipad": {
-    "font_name": "System"
+    "border_color": "3c3c4349",
+    "border_type": 0,
+    "font_name": "System",
+    "isForked": true
   },
   "iphone": {
+    "border_color": "3c3c4349",
+    "border_type": 0,
     "font_name": "System",
     "isForked": true
   },
   "isDefaultSkin": false,
   "kiosk": {
-    "font_name": "None"
+    "border_color": "3c3c4349",
+    "border_type": 0,
+    "font_name": "None",
+    "isForked": true
   },
   "kuid": "s356526625c54bb6a99d2b651d2bdbe9",
   "spaan": {
@@ -52,16 +65,25 @@
     "font_name": "Helvetica"
   },
   "tabrcandroid": {
-    "font_name": "default"
+    "border_color": "3c3c4349",
+    "border_type": 0,
+    "font_name": "default",
+    "isForked": true
   },
   "wType": "TextField",
   "watchos": {
     "font_name": "System"
   },
   "windows8": {
-    "font_name": "None"
+    "border_color": "3c3c4349",
+    "border_type": 0,
+    "font_name": "None",
+    "isForked": true
   },
   "winphone8": {
-    "font_name": "None"
+    "border_color": "3c3c4349",
+    "border_type": 0,
+    "font_name": "None",
+    "isForked": true
   }
 }

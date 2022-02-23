@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "4%"
+        "value": "10dp"
     },
     "_margin_": [
         1,
@@ -25,11 +25,11 @@
     "_text_": "Sub-Heading",
     "_top_": {
         "type": "string",
-        "value": "35%"
+        "value": "10dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "70%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -66,7 +66,7 @@
         "value": "70%"
     },
     "name": "kony.ui.Label",
-    "parent": "flxsecHomeRowTemplate",
+    "parent": "flxHeader",
     "pf": "segHomeRowTemplate",
     "textstyle": {},
     "texttruncateposition": 0,

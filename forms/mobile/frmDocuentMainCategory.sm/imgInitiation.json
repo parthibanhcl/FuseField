@@ -4,11 +4,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "80%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "163dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -23,34 +23,26 @@
         0
     ],
     "_skin_": "s0296f2aa34441efa0cf8cf64c01db4b",
-    "_src_": "brief_case_background.png",
+    "_src_": "brief_case_background_2.png",
     "_top_": {
         "type": "string",
-        "value": "125dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
         "value": "100%"
     },
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
     "containerweight": 100,
     "id": "imgInitiation",
-    "imagescalemode": 1,
+    "imagescalemode": 0,
     "info": null,
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "id28677f4611432983c311842dadee28",
     "name": "kony.ui.Image2",
-    "parent": "flxInitiationContainer",
+    "parent": "FlexGroup0g9429b9cf16a40",
     "pf": "frmDocuentMainCategory",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -25,7 +25,13 @@
     "addWidgetsdone": false,
     "allboxes": [],
     "android": {
+        "inTransitionConfig": {
+            "formAnimation": 0
+        },
         "needAppMenu": false,
+        "outTransitionConfig": {
+            "formAnimation": 0
+        },
         "psp": {
             "windowSoftInputMode": 2
         }
@@ -63,7 +69,17 @@
         "titleBar": false
     },
     "iphone": {
+        "inTransitionConfig": {
+            "transitionDirection": "none",
+            "transitionDuration": 0.3,
+            "transitionEffect": "none"
+        },
         "needAppMenu": false,
+        "outTransitionConfig": {
+            "transitionDirection": "none",
+            "transitionDuration": 0.3,
+            "transitionEffect": "none"
+        },
         "psp": {
             "inputAccessoryViewType": 4,
             "titleBarAttributes": {
@@ -110,6 +126,14 @@
     "retainscrollposition": false,
     "snapgridsize": 10,
     "snaptogrid": true,
+    "spa": {
+        "inTransitionConfig": {
+            "formTransition": "none"
+        },
+        "outTransitionConfig": {
+            "formTransition": "none"
+        }
+    },
     "spaan": {
         "needAppMenu": false
     },
@@ -136,6 +160,16 @@
         "needAppMenu": false
     },
     "winphone8": {
-        "needAppMenu": false
+        "inTransitionConfig": {
+            "inTransition": "none",
+            "transitionMode": "none",
+            "transitionSpeed": 0
+        },
+        "needAppMenu": false,
+        "outTransitionConfig": {
+            "outTransition": "none",
+            "transitionMode": "none",
+            "transitionSpeed": 0
+        }
     }
 }

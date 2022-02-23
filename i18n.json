@@ -33,7 +33,7 @@
                 "i18n.CustomActionSheet.LogOut": "Log Out",
                 "i18n.CustomActionSheet.Settings": "Settings",
                 "i18n.CustomActionSheet.Sync": "Sync",
-                "i18n.CustomAlert.Done": "Done",
+                "i18n.CustomAlert.Done": "DONE",
                 "i18n.CustomAlert.ExpireStatus": "Document has expired",
                 "i18n.CustomAlertWithInput.Cancel": "Cancel",
                 "i18n.CustomAlertWithInput.Enter_A_Reference": "Enter a reference",
@@ -49,7 +49,7 @@
                 "i18n.frmDocumentMainCategory.Home": "Home",
                 "i18n.frmDocumentMainCategory.Initiation": "Initiation",
                 "i18n.frmHome.ManualInput": "Manual Input",
-                "i18n.frmHome.Qrcode": "QrCode",
+                "i18n.frmHome.Qrcode": "Qrcode",
                 "i18n.frmHome.ScannedDocuments": "SCANNED DOCUMENTS",
                 "i18n.frmHome.Status": "Status"
             },

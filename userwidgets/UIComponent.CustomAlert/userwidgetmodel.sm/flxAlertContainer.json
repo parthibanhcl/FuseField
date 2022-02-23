@@ -35,13 +35,8 @@
         "value": "50%"
     },
     "children": [
-        "imgAlertIcon",
-        "lblAlertDocID",
-        "lblAlertBrandName",
-        "lblAlertFileName",
-        "lblErrorMessage",
-        "lblAlertLine",
-        "btnAlertDone"
+        "flxMainContainer",
+        "flxButtonContainer"
     ],
     "clipbounds": true,
     "containerweight": 100,

@@ -5,10 +5,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_margin_": [
         1,
         1,
@@ -23,13 +19,9 @@
     ],
     "_skin_": "s8bc882a9923489baa0e700596204d5d",
     "_text_": "Initiation",
-    "_top_": {
-        "type": "string",
-        "value": "0%"
-    },
     "_width_": {
-        "type": "string",
-        "value": "100%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -45,7 +37,7 @@
     },
     "centery": {
         "type": "string",
-        "value": "60%"
+        "value": "70%"
     },
     "containerweight": 100,
     "contentalignment": 5,
@@ -65,7 +57,7 @@
     "isvisible": true,
     "kuid": "d7eca03faf1643eb864fd9842d3be509",
     "name": "kony.ui.Label",
-    "parent": "flxInitiationContainer",
+    "parent": "FlexGroup0g9429b9cf16a40",
     "pf": "frmDocuentMainCategory",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "30%"
+        "value": "32%"
     },
     "_left_": {
         "type": "number",
@@ -39,14 +39,13 @@
         "value": "65%"
     },
     "children": [
-        "lblTitle",
-        "lblStripSetting",
-        "lblSync",
-        "lblStripSync",
-        "lblLastSync",
-        "lblLastSyncDate",
-        "lblStripLastSync",
-        "lblLogout"
+        "flxSettings",
+        "flxSeparator",
+        "flxSync",
+        "flxSeparator2",
+        "flxLastSync",
+        "flxSeparator3",
+        "flxLogout"
     ],
     "clipbounds": true,
     "containerweight": 100,

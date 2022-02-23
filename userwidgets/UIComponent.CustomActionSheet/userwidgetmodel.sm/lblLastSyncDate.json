@@ -61,7 +61,7 @@
     "isvisible": true,
     "kuid": "d7bd54a520304f94a02a14833ec700a0",
     "name": "kony.ui.Label",
-    "parent": "flxActionSheet",
+    "parent": "flxLastSync",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

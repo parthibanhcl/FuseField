@@ -21,7 +21,7 @@
     "isForked": false
   },
   "fontSizeInPx": false,
-  "font_color": "000000ff",
+  "font_color": "2c163dff",
   "font_name": "iphoneSystem",
   "font_size": 150,
   "font_style": "normal",
@@ -32,7 +32,7 @@
     "isForked": false
   },
   "iphone": {
-    "font_name": "SF-Pro-Display-Bold",
+    "font_name": "System-Bold",
     "font_size": 150,
     "isForked": false
   },

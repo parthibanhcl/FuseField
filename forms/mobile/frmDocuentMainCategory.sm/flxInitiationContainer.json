@@ -4,10 +4,6 @@
         "type": "string",
         "value": "50%"
     },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_margin_": [
         0,
         0,
@@ -23,10 +19,6 @@
     ],
     "_percent_": true,
     "_skin_": "s269ac3818604c59893a0f45ac295393",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_width_": {
         "type": "string",
         "value": "100%"
@@ -35,8 +27,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "imgInitiation",
-        "lblDocmentTypeOne"
+        "FlexGroup0g9429b9cf16a40"
     ],
     "clipbounds": true,
     "containerweight": 100,

@@ -2,8 +2,12 @@
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
     },
     "_margin_": [
         1,
@@ -17,19 +21,15 @@
         0,
         0
     ],
-    "_right_": {
-        "type": "string",
-        "value": "4.00%"
-    },
     "_skin_": "s72f5d68abba4a29b414595cf0a6ace2",
-    "_text_": "Timestamp",
+    "_text_": "Expires ",
     "_top_": {
         "type": "string",
-        "value": "10.15%"
+        "value": "0"
     },
     "_width_": {
         "type": "string",
-        "value": "20%"
+        "value": "80%"
     },
     "_wrapping_": 2,
     "android": {
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerId": true,
     "containerweight": 100,
-    "contentalignment": 6,
+    "contentalignment": 3,
     "id": "lblTime",
     "info": null,
     "ipad": {
@@ -57,7 +57,7 @@
     "isvisible": true,
     "kuid": "48a3223d40f143de826b5a89fa00ae47",
     "name": "kony.ui.Label",
-    "parent": "flxsecHomeRowTemplate",
+    "parent": "flxTime",
     "pf": "segHomeRowTemplate",
     "textstyle": {},
     "tooltip": "",

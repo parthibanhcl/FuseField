@@ -2,8 +2,8 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "_height_": {
-        "type": "string",
-        "value": "50dp"
+        "type": "ref",
+        "value": "preferred"
     },
     "_margin_": [
         6,
@@ -21,11 +21,11 @@
     "_text_": "Done",
     "_top_": {
         "type": "string",
-        "value": "3%"
+        "value": "5dp"
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "100%"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -42,7 +42,7 @@
     "isvisible": true,
     "kuid": "e8d2c3e8cc644a1c9014fd82284b8e71",
     "name": "kony.ui.Button",
-    "parent": "flxAlertContainer",
+    "parent": "flxButtonContainer",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

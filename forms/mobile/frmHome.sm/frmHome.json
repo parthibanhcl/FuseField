@@ -20,7 +20,7 @@
         1,
         5
     ],
-    "_skin_": "s4887933f97a4533b50770b7308042ef",
+    "_skin_": "sfe6a751a1d24cdc97151753720700b8",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -41,6 +41,8 @@
         "PdfViewer",
         "flxMenuContainer"
     ],
+    "configureExtendBottom": false,
+    "configureExtendTop": false,
     "containerweight": 100,
     "controllerInfo": {
         "default": {
@@ -69,6 +71,8 @@
     "iphone": {
         "needAppMenu": false,
         "psp": {
+            "configureExtendBottom": false,
+            "configureExtendTop": false,
             "inputAccessoryViewType": 4,
             "titleBarAttributes": {
                 "barStyle": 0,

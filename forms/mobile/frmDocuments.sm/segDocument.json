@@ -18,10 +18,6 @@
             "lblHeading": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Practice Document WPD-NPC-001.pdf"
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
             }
         },
         {
@@ -40,10 +36,6 @@
             "lblHeading": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Practice Document WPD-NPC-001.pdf"
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
             }
         },
         {
@@ -62,10 +54,6 @@
             "lblHeading": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Practice Document WPD-NPC-001.pdf"
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
             }
         },
         {
@@ -84,10 +72,6 @@
             "lblHeading": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Practice Document WPD-NPC-001.pdf"
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
             }
         },
         {
@@ -106,10 +90,6 @@
             "lblHeading": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Practice Document WPD-NPC-001.pdf"
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
             }
         },
         {
@@ -128,10 +108,6 @@
             "lblHeading": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Practice Document WPD-NPC-001.pdf"
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
             }
         },
         {
@@ -150,10 +126,6 @@
             "lblHeading": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Practice Document WPD-NPC-001.pdf"
-            },
-            "lblStripHorizontal": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
             }
         }
     ],
@@ -237,7 +209,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": 0,
+    "selectedsectionindex": null,
     "selectionbehavior": "default",
     "separatorrequired": false,
     "showprogressindicator": false,
@@ -247,12 +219,12 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
+        "flxStrip": "flxStrip",
         "flxsecDocumentRowTemplate": "flxsecDocumentRowTemplate",
         "lblDescription": "lblDescription",
         "lblDocumentDate": "lblDocumentDate",
         "lblDocumentID": "lblDocumentID",
-        "lblHeading": "lblHeading",
-        "lblStripHorizontal": "lblStripHorizontal"
+        "lblHeading": "lblHeading"
     },
     "zindex": 1
 }

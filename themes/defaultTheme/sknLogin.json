@@ -106,7 +106,7 @@
     "border_type": 0,
     "border_width": 1,
     "font_color": "ffffffff",
-    "font_name": "SF-Pro",
+    "font_name": "System",
     "font_size": 130,
     "isForked": true,
     "text_shadow": {
@@ -437,7 +437,7 @@
     "background_color": "4d69ceff",
     "bg_type": "one",
     "font_color": "ffffffff",
-    "font_name": "Helvetica",
+    "font_name": "System",
     "font_size": 130,
     "isForked": true
   },

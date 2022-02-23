@@ -43,6 +43,10 @@
         }
     },
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 5,
     "id": "lblLogout",
@@ -61,7 +65,7 @@
     "isvisible": true,
     "kuid": "b9c358953fcc4e83b1a0832dbf28b207",
     "name": "kony.ui.Label",
-    "parent": "flxActionSheet",
+    "parent": "flxLogout",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

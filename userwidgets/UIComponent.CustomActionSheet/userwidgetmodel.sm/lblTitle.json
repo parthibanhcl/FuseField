@@ -39,6 +39,10 @@
         }
     },
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 5,
     "id": "lblTitle",
@@ -57,7 +61,7 @@
     "isvisible": true,
     "kuid": "a2ccb406a8844fc8af4db78f7803fa5b",
     "name": "kony.ui.Label",
-    "parent": "flxActionSheet",
+    "parent": "flxSettings",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "70%"
+        "value": "75%"
     },
     "_left_": {
         "type": "string",
@@ -37,12 +37,12 @@
     "children": [
         "lblHeader",
         "lblInputTitle",
-        "tbReferenceInput",
-        "lblStrip"
+        "tbReferenceInput"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
+    "focusskin": null,
     "id": "flxContent",
     "info": null,
     "iscustomlayout": false,
